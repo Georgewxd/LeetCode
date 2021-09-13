@@ -1,3 +1,9 @@
+//return new int[0]表示如果没找到，则返回一个空数组；
+//
+//        方法一：暴力破解
+//        方法二：优化暴力破解
+//        方法三：使用哈希表
+
 package com.shuati.likou;
 
 import java.util.HashMap;
